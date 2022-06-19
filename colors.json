@@ -1,0 +1,31 @@
+{
+	"schemes": [
+		{
+			"name": "Dark",
+			"primary": "rgb(31, 41, 55)",
+			"secondary": "rgb(55, 65, 81)",
+			"third": "rgb(17, 24, 39)",
+			"text": "#fff"
+		},
+		{
+			"name": "Light",
+			"primary": "rgb(209 213 219)", "secondary": "rgb(229 231 235)",
+			"third": "#fff",
+			"text": "#000" 
+		},
+		{
+			"name": "Ocean",
+			"primary": "#0077b6",
+			"secondary": "#023e8a",
+			"third": "#03045e",
+			"text": "#fff"
+		},
+		{
+			"name": "Marshmallows",
+			"primary": "#ffd6e0",
+			"secondary": "#fdffb6",
+			"third": "#caffbf",
+			"text": "#a0c4ff"
+		}
+	]
+}
